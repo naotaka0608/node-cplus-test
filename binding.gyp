@@ -6,7 +6,8 @@
             "sources"       : [ 
                 "addon.cpp", 
                 "CalcTest/CalcSquare.h",  "CalcTest/CalcSquare.cpp",
-                "CalcTest/CalcTriangle.h",  "CalcTest/CalcTriangle.cpp" 
+                "CalcTest/CalcTriangle.h",  "CalcTest/CalcTriangle.cpp",
+                "CalcTest/SortLib.h",  "CalcTest/SortLib.cpp" 
             ],
 
             "defines"       : [ "NAPI_DISABLE_CPP_EXCEPTIONS" ],

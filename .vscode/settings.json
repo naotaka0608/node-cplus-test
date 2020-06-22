@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.html": "django-html",
+        "xlocale": "cpp",
+        "xstring": "cpp"
+    }
+}
